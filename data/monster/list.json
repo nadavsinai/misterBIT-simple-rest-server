@@ -1,25 +1,25 @@
 [
   {
-    "name": "Daniel",
+    "name": "Shraga",
     "power": "3",
-    "imgUrl": "http://localhost:3003/file-1491082393825.jpg",
+    "imgUrl": "http://localhost:3003/monster1.png",
     "_id": 1
   },
   {
-    "name": "Yaron",
+    "name": "Batumba",
     "power": "5",
-    "imgUrl": "http://localhost:3003/file-1491082403447.jpg",
+    "imgUrl": "http://localhost:3003/monster2.png",
     "_id": 2
   },
   {
-    "name": "Zohar",
+    "name": "Hexe",
     "power": 4,
-    "imgUrl": "http://localhost:3003/file-1491082421545.JPG"
+    "imgUrl": "http://localhost:3003/monster3.png"
   },
   {
-    "name": "Roni",
+    "name": "Baba Yaga",
     "power": "3",
-    "imgUrl": "http://localhost:3003/file-1491082487832.jpg",
+    "imgUrl": "http://localhost:3003/monster4.png",
     "_id": 3
   }
 ]
